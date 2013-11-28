@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Scatman Nom</string>
+    <string name="hello_world">I\'m in ScatmanNomGame activity!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start">startActivity</string>
+
+</resources>
